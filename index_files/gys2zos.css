@@ -1,0 +1,22 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * boston-traffic:
+ *   - http://typekit.com/eulas/00000000000000000000d31a
+ *
+ * © 2009-2023 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2018-06-29 21:32:29 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=gys2zos&ht=tk&f=48&a=14475318&app=typekit&e=css");
+
+@font-face {
+font-family:"boston-traffic";
+src:url("https://use.typekit.net/af/2489d2/00000000000000000000d31a/27/l?subset_id=1&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/2489d2/00000000000000000000d31a/27/d?subset_id=1&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/2489d2/00000000000000000000d31a/27/a?subset_id=1&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+.boston-traffic,.tk-boston-traffic,boston-traffic { font-family: "boston-traffic",sans-serif; }
